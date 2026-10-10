@@ -22,17 +22,20 @@ Article: *Trading Fees Have Bought $1.5 Million of Tokenized Stocks, Mostly AI. 
 
 ## Charts
 
-<p>
-  <img src="charts/chart-3-weekly-fees.png" width="49%" alt="Weekly ETH fees spent by the treasury">
-  <img src="charts/chart-4-stock-weights.png" width="49%" alt="Share of USDG spent per stock against an equal split">
-</p>
-<p>
-  <img src="charts/chart-1b-basket-by-spend.png" width="49%" alt="Share of spend by theme">
-  <img src="charts/chart-2b-payouts-per-week.png" width="49%" alt="Payouts per week">
-</p>
-<p>
-  <img src="charts/chart-5-holders.png" width="49%" alt="Eligible wallets at each payout">
-</p>
+### Fee revenue
+![Weekly ETH fees spent by the treasury](charts/chart-3-weekly-fees.png)
+
+### Weights per stock
+![Share of USDG spent per stock against an equal split](charts/chart-4-stock-weights.png)
+
+### Spend by theme
+![Share of spend by theme](charts/chart-1b-basket-by-spend.png)
+
+### Payout frequency
+![Payouts per week](charts/chart-2b-payouts-per-week.png)
+
+### Eligible wallets
+![Eligible wallets at each payout](charts/chart-5-holders.png)
 
 ## Quick start
 
