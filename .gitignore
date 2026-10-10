@@ -1,0 +1,7 @@
+html/
+__pycache__/
+data/hypersync_*.json
+data/*.tmp
+data/*.csv
+.DS_Store
+.env
