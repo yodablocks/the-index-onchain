@@ -4,7 +4,7 @@ Reproducible data and code for an independent analysis of [The Index](https://th
 
 Every figure comes from Robinhood Chain event logs: the fees the treasury spent, what the distributor contracts paid for each of the 18 stocks, and each payout to holders, from launch on July 3 to October 8, 2026.
 
-Article: *Trading Fees Have Bought $1.5 Million of Tokenized Stocks, Mostly AI. I Read the Chain to See What Holders Actually Got.* (Medium, October 2026)
+Article: [*Trading Fees Have Bought $1.5 Million of Tokenized Stocks, Mostly AI. I Read the Chain to See What Holders Actually Got.*](https://medium.com/@zkMarc/trading-fees-have-bought-1-5-million-of-tokenized-stocks-mostly-ai-aecf768cdf88) (Medium, October 12, 2026)
 
 > Independent research. Not financial advice. The author holds no $INDEX and has no relationship with the team.
 
